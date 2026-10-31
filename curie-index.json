@@ -1,34 +1,4 @@
 {
   "lessons": [
-    {
-      "file": "intro-to-functions.curie",
-      "title": "A first look at functions",
-      "description": "See how a rule turns inputs into outputs, with a graph, quick checks, and a little science.",
-      "author": "Curie"
-    },
-    {
-      "file": "keplers-laws.curie",
-      "title": "Kepler's laws of planetary motion",
-      "description": "How Johannes Kepler cracked the code of the planets using nothing but careful observations, and the three laws he found.",
-      "author": "Curie Examples"
-    },
-    {
-      "file": "projectile-motion.curie",
-      "title": "Projectile motion: aim the cannon",
-      "description": "Change the launch angle, speed and planet, and watch the flight path, the numbers and the equations update live.",
-      "author": "Curie"
-    },
-    {
-      "file": "rice-and-the-chessboard.curie",
-      "title": "The rice and the chessboard",
-      "description": "An ancient legend reveals the surprising power of doubling. Explore exponential growth with charts, maths, and quick checks.",
-      "author": "Curie Examples"
-    },
-    {
-      "file": "why-the-sky-is-blue.curie",
-      "title": "Why is the sky blue?",
-      "description": "Follow a beam of sunlight through the atmosphere and discover why the sky is blue, sunsets are red, and clouds are white.",
-      "author": "Curie Examples"
-    }
   ]
 }
